@@ -20,7 +20,7 @@ I work primarily with small and mid-sized businesses, founders, product teams wi
 
 _I’m less interested in standalone backend feature work and more in how systems talk to each other, how data flows, and how automation can reduce manual work safely._
 
-## My Background
+## My background
 
 - 10+ years of experience: Senior Technical Support Officer at Progress Software; E-commerce backend and integration engineer 
 
@@ -44,7 +44,7 @@ _This background is why I’m often brought in not just to build, but to advise 
 
 🔍 Making complex systems understandable and operable
 
-## ⚙️ Classic Tools & technologies I am using
+## ⚙️ Classic tools & technologies I am using
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" alt="WooCommerce" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="25" height="25" /> <img <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="25" height="25" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="25" height="25" /> </p>
 
 _I use code where it adds leverage — not for its own sake._
