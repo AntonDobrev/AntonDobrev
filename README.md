@@ -1,50 +1,32 @@
-# Hey, I’m Anton 👋
+# Anton | Systems Architect & Fractional CAO 👋
 
-I design and build automation-driven systems that connect products, APIs, and AI into reliable, scalable workflows.
+I design and engineer deterministic, automation-driven ecosystems that connect fragmented software, APIs, and AI into reliable, scalable workflows. 
 
-My background is in backend engineering and API-heavy systems, but today I focus on no-code / low-code automation, AI integrations, and systems architecture — helping businesses move faster without accumulating technical debt.
+As the Founder and Lead Architect at **[Laterna](https://laterna.bg)**, I act as a Forward-Deployed Engineer for scaling e-commerce and digital brands. My background is in heavy backend engineering, but today I focus on process orchestration, AI integration, and systems architecture—helping businesses scale their operations without accumulating technical debt.
 
-I work primarily with small and mid-sized businesses, founders, product teams with operations-heavy workflows that need clarity, robustness, and long-term maintainability.
+### 🏗️ Core Focus & Architecture
 
-## What I focus on today 
+- **API & Systems Integration:** Deep bridging of REST, GraphQL, webhooks, and legacy systems.
+- **Enterprise Orchestration:** Visual node-based logic mapping (n8n, Make.com) backed by custom code for complex edge cases.
+- **Cognitive AI Pipelines:** Production-ready LLM integrations, autonomous agents, and decision-tree flows (anti-hype, built for actual ROI).
+- **Operational Automation:** Eliminating manual data entry across CRMs, ERPs, inventory routing, and invoicing.
+- **Systems Design:** Mapping business logic and diagnosing bottlenecks *before* writing a single line of code.
 
-🔗 API & systems integration (REST, GraphQL, webhooks)
+_I don’t build isolated backend features. I architect ecosystems. My focus is entirely on system interoperability, deterministic data flow, and eliminating operational debt._
 
-🤖 AI-powered automations (LLMs, decision flows, enrichment, assistants, agentic automation)
+### ⚙️ Background & Engineering DNA
 
-⚙️ No-code / low-code orchestration (Make.com, n8n)
+- **10+ Years of Engineering:** E-commerce backend developer, integration engineer, and Senior Technical Support Officer at Progress Software.
+- **Backend Foundation:** Highly confident with complex failure modes, error handling, rate limits, and secure API routing.
+- **End-to-End Ownership:** Operating seamlessly between product goals, engineering execution, and non-technical stakeholders (Discovery → Architecture → Deployment → Governance).
 
-🧠 Architecture & workflow system design (not just “connecting tools”)
+_This background is why I’m brought in not just to build, but to act as a Fractional CAO who dictates the right structural approach first._
 
-📊 Operational automation (CRM, invoicing, subscriptions, reporting, shipping, inventory)
+### 🧠 Current Research & Interests
 
-_I’m less interested in standalone backend feature work and more in how systems talk to each other, how data flows, and how automation can reduce manual work safely._
+- 🧩 **Event-Driven Architecture:** Scalable orchestration patterns for high-volume workflows.
+- 🤖 **Private AI:** Secure, GDPR-compliant AI use cases for internal operational efficiency.
+- ☁️ **Serverless Infrastructure:** Highly available, low-latency execution.
+- 📝 **Invisible Architecture:** Making complex systems understandable, operable, and fully documented for the end-user.
 
-## My background
-
-- 10+ years of experience: Senior Technical Support Officer at Progress Software; E-commerce backend and integration engineer 
-
-- Strong backend foundation → confident with edge cases, failure modes, and APIs
-
-- Used to operating between product, engineering, and non-technical stakeholders
-
-- Comfortable owning systems end-to-end: design → implementation → documentation
-
-_This background is why I’m often brought in not just to build, but to advise on the right approach first._
-
-## Current interests
-
-🧩 Automation architecture & orchestration patterns
-
-🤖 Practical AI use cases (not hype-driven, but production-ready)
-
-☁️ Serverless & event-driven systems
-
-📝 Developer documentation & internal tooling
-
-🔍 Making complex systems understandable and operable
-
-## ⚙️ Classic tools & technologies I am using
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" alt="WooCommerce" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="25" height="25" /> <img <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="25" height="25" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="25" height="25" /> </p>
-
-_I use code where it adds leverage — not for its own sake._
+> *"I use code where it adds leverage — not for its own sake."*
